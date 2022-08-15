@@ -1,0 +1,2 @@
+Linux version 5.10.127 (root@debian) (gcc (Debian 10.2.1-6) 10.2.1 20210110, GNU ld (GNU Binutils for Debian) 2.35.2) #2 SMP Tue Aug 2 04:30:37 PDT 2022
+ÿ
